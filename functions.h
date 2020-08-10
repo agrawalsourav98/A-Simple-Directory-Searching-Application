@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <iostream>
 
-namespace fs = std::experimental::filesystem;
+namespace fs = std::filesystem;
 
 /*
 	stream1:Store paths
